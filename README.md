@@ -23,12 +23,6 @@
 ## Algorithms and data structures
 - [ ] Book
 
-## PostgreSQL
-- [ ] Book
-
-## Algorithms and data structures
-- [ ] Book
-
 ## Architecure
 - [ ] Book
 
