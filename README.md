@@ -17,7 +17,7 @@
 ## Hibernate
 - [ ] Book
 
-## PostgreSQL
+## Postgres
 - [ ] Book
 
 ## Algorithms and data structures
@@ -27,7 +27,7 @@
 - [ ] Book
 
 ## Algorithms and data structures
-- [ ]
+- [ ] Book
 
 ## Architecure
 - [ ] Book
