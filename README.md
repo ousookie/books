@@ -2,8 +2,8 @@
 
 ## Git
 - [x] Git Apprentice
-- [ ] Advanced Git
-- [ ] Mastering Git
+- [x] Advanced Git
+- [x] Mastering Git
 - [ ] Pro Git
 
 ## Java
