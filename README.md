@@ -4,27 +4,27 @@
 - [x] Git Apprentice
 - [x] Advanced Git
 - [x] Mastering Git
-- [ ] Pro Git
+- [x] Pro Git
 
 ## Java
 - [x] Java Philosophy
-- [ ] Java SE spec
-- [ ] JVM spec
+- [x] Java SE spec
+- [x] JVM spec
 
 ## Spring
-- [ ] Spring in action 
+- [x] Spring in action 
 
 ## Hibernate
-- [ ] Book
+- [x] Book
 
 ## Postgres
-- [ ] Book
+- [x] Book
 
 ## Algorithms and data structures
-- [ ] Book
+- [x] Book
 
 ## Architecure
-- [ ] Book
+- [x] Book
 
 ## DevOps
-- [ ] Book
+- [x] Book
